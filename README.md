@@ -36,7 +36,7 @@ Untuk meng-install `pandas` (jika belum terinstal), jalankan perintah:
 pip install pandas
 ```
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 1. Buka terminal atau Command Prompt.
 2. Pastikan Anda berada di dalam direktori `inverted-index/`.
@@ -50,7 +50,7 @@ pip install pandas
    ```
 5. Hasil dari pencarian akan ditampilkan dalam bentuk daftar *Document ID* dan Judul Berita yang memuat kata kunci tersebut.
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```text
 inverted-index/
